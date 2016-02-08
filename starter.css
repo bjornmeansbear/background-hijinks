@@ -42,7 +42,9 @@ h1 {
 .transparency.ninety-percent   { opacity: .9; }
 
 /** Background images and other background properties **/
-/** https://unsplash.it/images **/
+/** if you need some images: https://unsplash.it/images or http://www.unsplash.com **/
+/** for help with the background CSS properties: http://www.w3schools.com/css/css_background.asp **/
+
 .one {
   background-image: url('https://unsplash.it/1000/1000?image=992');
   background-repeat: no-repeat;
